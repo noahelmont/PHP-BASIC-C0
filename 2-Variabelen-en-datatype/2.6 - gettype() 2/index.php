@@ -1,5 +1,5 @@
 <?php
-$a = "nadir";
+$a = "noah";
 echo gettype("$a");
 echo "<br>";
 $b = 0.1;
