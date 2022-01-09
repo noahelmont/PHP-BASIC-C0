@@ -2,6 +2,6 @@
 $voornaam = "Noah";
 $leeftijd = 21;
 
-echo "jouw naam is " . $voornaam . " en je bent " . $leeftijd . " jaar oud."
+echo "mijn naam is " . $voornaam . " en ik ben " . $leeftijd . " jaar oud."
 
 ?>
